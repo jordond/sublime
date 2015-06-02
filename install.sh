@@ -18,7 +18,7 @@ function init {
   sublime_is_installed
   if [[ $? -eq 1 ]]; then
     echo "Sublime not found, installing now."
-    ./install_sublime.sh $SUBLIME_INSTALL_DIR
+    ./sublime_install.sh $SUBLIME_INSTALL_DIR
     echo ""
   fi
   
