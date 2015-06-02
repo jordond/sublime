@@ -1,0 +1,49 @@
+<snippet>
+  <content><![CDATA[
+(function () {
+  'use strict';
+
+  /**
+   * @ngdoc directive
+   * @name app.directive:Rename
+   * @restrict EA
+   * @element
+   *
+   * @description
+   *
+   */
+  angular
+    .module('app')
+    .directive('Rename', RenameConfig);
+
+  function RenameConfig() {
+    var directive = {
+      restrict: 'EA',
+      scope: {},
+      templateUrl: '',
+      replace: false,
+      link: linkFunct,
+      controller: RenameCtrl,
+      controllerAs: 'vm'
+    };
+
+    return directive;
+
+    RenameCtrl.$injector = [''];
+
+    function RenameCtrl() {
+      var vm = this;
+      vm.name = '';
+    }
+
+    function linkFunct(scope, element, attrs) {
+      /*jshint unused:false */
+      /*eslint "no-unused-vars": [2, {"args": "none"}]*/
+    }
+  }
+}());
+
+]]></content>
+  <tabTrigger>directive</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,39 @@
+<snippet>
+  <content><![CDATA[
+(function () {
+  'use strict';
+
+  /**
+   * @ngdoc factory
+   * @name app.service:Rename
+   *
+   * @description
+   *
+   */
+  angular
+    .module('app')
+    .factory('Rename', RenameConfig);
+
+  RenameConfig.$inject = [''];
+
+  function RenameConfig() {
+    var service = {
+    };
+
+    return service;
+
+    /**
+     * Public Methods
+     */
+
+    /**
+     * Private functions
+     */
+
+  }
+}());
+
+]]></content>
+  <tabTrigger>factory</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

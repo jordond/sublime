@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Bracketeer",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"LESS",
+		"Numix Theme",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"Predawn Twilight Theme",
+		"SideBarEnhancements",
+		"Theme - Asphalt",
+		"Theme - Flatland",
+		"Theme - itg.flat",
+		"Theme - Orchis",
+		"Theme - Spacegray"
+	]
+}

@@ -1,0 +1,1329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"from",
+				"fromParams"
+			],
+			[
+				"nav",
+				"navbarItems"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"act",
+				"activate"
+			],
+			[
+				"regi",
+				"registeredModels"
+			],
+			[
+				"create",
+				"createSocket"
+			],
+			[
+				"creat",
+				"createIoSocket"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"defe",
+				"deferred"
+			],
+			[
+				"au",
+				"author	@author"
+			],
+			[
+				"sync",
+				"syncAll"
+			],
+			[
+				"crea",
+				"createSocket"
+			],
+			[
+				"mode",
+				"modelName"
+			],
+			[
+				"res",
+				"resetSocket"
+			],
+			[
+				"uns",
+				"unsyncAll"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"reg",
+				"registeredModels"
+			],
+			[
+				"io",
+				"ioSocket"
+			],
+			[
+				"socket",
+				"socketFactory"
+			],
+			[
+				"$state",
+				"$stateParams"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"user",
+				"usersPrepService"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"link",
+				"linkFunct"
+			],
+			[
+				"use",
+				"usersTableCtrl"
+			],
+			[
+				"$in",
+				"$inject"
+			],
+			[
+				"edit",
+				"editUserPrepService"
+			],
+			[
+				"re",
+				"restricted"
+			],
+			[
+				"control",
+				"controllerAs"
+			],
+			[
+				"find",
+				"findSuccess"
+			],
+			[
+				"fin",
+				"findFailed"
+			],
+			[
+				"us",
+				"usersPrepService"
+			],
+			[
+				"query",
+				"queryAllUsers"
+			],
+			[
+				"has",
+				"has-success"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"$vali",
+				"$invalid"
+			],
+			[
+				"ng",
+				"ngModel"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"mon",
+				"mongoose-validator"
+			],
+			[
+				"email",
+				"emailValidator"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"valid",
+				"validate"
+			],
+			[
+				"valida",
+				"validator"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"ref",
+				"refreshToken"
+			],
+			[
+				"pa",
+				"param	@param"
+			],
+			[
+				"$inter",
+				"$interval	AngularJS"
+			],
+			[
+				"refre",
+				"refresher"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"respon",
+				"responseError"
+			],
+			[
+				"get",
+				"getSelf"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"sig",
+				"signToken"
+			],
+			[
+				"head",
+				"headers"
+			],
+			[
+				"logg",
+				"loggedInFalse"
+			],
+			[
+				"curre",
+				"currentUser"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"$pro",
+				"$promise"
+			],
+			[
+				"$loca",
+				"$location	AngularJS"
+			],
+			[
+				"cur",
+				"currentUser"
+			],
+			[
+				"cu",
+				"currentUser"
+			],
+			[
+				"$coo",
+				"$cookieStore	AngularJS"
+			],
+			[
+				"u",
+				"updateFailed"
+			],
+			[
+				"isLo",
+				"isLoggedInAsync"
+			],
+			[
+				"isL",
+				"isLoggedInAsync"
+			],
+			[
+				"is",
+				"isLoggedIn"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"upd",
+				"updatedUser"
+			],
+			[
+				"pro",
+				"provided"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"b",
+				"browserSync"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"l",
+				"loggedIn"
+			],
+			[
+				"send",
+				"sendStatus"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"comp",
+				"compareRole"
+			],
+			[
+				"role",
+				"roleToCheck"
+			],
+			[
+				"rol",
+				"roleToCheck"
+			],
+			[
+				"id",
+				"_id"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/jordon/code/resume-site/app/json/sections/projects.json",
+			"settings":
+			{
+				"buffer_size": 2789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "  (function () {\n  'use strict';\n\n  /* @ngdoc object\n   * @name underscore\n   *\n   * @description\n   *\n   */\n  angular\n    .module('underscore', []);\n}());\n",
+			"file": "/home/jordon/code/resume-site/app/underscore/underscore.js",
+			"file_size": 166,
+			"file_write_time": 130750743882051348,
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/jordon/code/resume-site/app/json/sections/skills.json",
+			"settings":
+			{
+				"buffer_size": 5400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "(function () {\n  'use strict';\n \n  /* @ngdoc object\n   * @name resume\n   * @requires $urlRouterProvider\n   *\n   * @description\n   *\n   */\n  angular\n    .module('resume', [\n      'ui.router',\n      'mgcrea.ngStrap',\n      'ngAnimate',\n      'duScroll',\n      'angularMoment',\n      'underscore',\n      'home',\n      'underscore'\n    ]);\n\n  angular\n    .module('resume')\n    .config(config);\n\n  function config($urlRouterProvider) {\n    $urlRouterProvider.otherwise('/resume');\n  }\n}());\n",
+			"file": "/home/jordon/code/resume-site/app/app.js",
+			"file_size": 515,
+			"file_write_time": 130750743881811439,
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "Snippet: jor",
+		"selected_items":
+		[
+			[
+				"Snippet: jor",
+				"Snippet: jordon-factory"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jordon/code/resume-site",
+		"/home/jordon/code/resume-site/app",
+		"/home/jordon/code/resume-site/app/json",
+		"/home/jordon/code/resume-site/app/json/sections",
+		"/home/jordon/code/resume-site/app/underscore"
+	],
+	"file_history":
+	[
+		"/home/jordon/code/trakr-site/app/home/home.tpl.html",
+		"/home/jordon/code/sublime/trakr-site.sublime-project",
+		"/home/jordon/code/mean-stack/app/components/user/user-socket-factory.js",
+		"/home/jordon/code/mean-stack/app/admin/user/edit-user-controller.js",
+		"/home/jordon/code/mean-stack/server/api/thing/thing.socket.js",
+		"/home/jordon/code/mean-stack/app/admin/usersTable/users-table-directive.js",
+		"/home/jordon/code/mean-stack/app/admin/admin-routes.js",
+		"/home/jordon/code/mean-stack/app/admin/admin.tpl.html",
+		"/home/jordon/code/mean-stack/app/admin/usersTable/users-table-directive.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/auth/auth-factory.js",
+		"/home/jordon/code/mean-stack/app/admin/user/new-user-controller.js",
+		"/home/jordon/code/mean-stack/app/components/user/form/user-form-directive.js",
+		"/home/jordon/code/mean-stack/app/app-module.js",
+		"/home/jordon/code/mean-stack/app/components/navbar/navbar-directive.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/socket/socket-service.js",
+		"/home/jordon/code/mean-stack/app/components/logger/logger-factory.js",
+		"/home/jordon/code/mean-stack/app/components/navbar/navbar-items-directive.js",
+		"/home/jordon/code/mean-stack/app/components/user/user-data-factory.js",
+		"/home/jordon/code/mean-stack/app/components/navbar/navbar-items-directive.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/navbar/navbar-aside.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/navbar/navbar-directive.js",
+		"/home/jordon/Documents/asdasd.js",
+		"/home/jordon/code/mean-stack/app/app.json",
+		"/home/jordon/code/mean-stack/app/components/navbar/navbar-items.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/user/user-data-service.js",
+		"/home/jordon/code/mean-stack/server/api/user/user.socket.js",
+		"/home/jordon/code/mean-stack/server/config/socketio.js",
+		"/home/jordon/code/mean-stack/app/components/auth/token-service.js",
+		"/home/jordon/code/mean-stack/app/admin/admin-controller.js",
+		"/home/jordon/code/mean-stack/.eslintrc",
+		"/home/jordon/code/mean-stack/app/account/profile/profile.tpl.html",
+		"/home/jordon/code/mean-stack/app/dashboard/dashboard-controller.js",
+		"/home/jordon/code/mean-stack/node_modules/browser-sync/lib/logger.js",
+		"/home/jordon/code/mean-stack/app/components/user/user-factory.js",
+		"/run/user/1000/gvfs/sftp:host=maverick.local/appdata/config/nginx/nginx.conf",
+		"/home/jordon/code/mean-stack/app/components/socket/socket-service-new.js",
+		"/home/jordon/.config/sublime-text-3/Packages/User/jordon-factory.sublime-snippet",
+		"/home/jordon/code/mean-stack/app/admin/user/user.tpl.html",
+		"/home/jordon/code/mean-stack/server/api/user/user.model.js",
+		"/home/jordon/code/mean-stack/server/api/user/user.controller.js",
+		"/home/jordon/code/mean-stack/app/admin/usersTable/users-table-directive.less",
+		"/home/jordon/code/mean-stack/app/admin/admin.less",
+		"/home/jordon/code/mean-stack/app/components/user/form/user-form-buttons-directive.tpl.html",
+		"/home/jordon/code/test.js",
+		"/home/jordon/.config/sublime-text-3/Packages/User/jordon-directive.sublime-snippet",
+		"/home/jordon/code/mean-stack/app/index.html",
+		"/home/jordon/code/mean-stack/app/components/user/form/user-form-directive.tpl.html",
+		"/home/jordon/code/mean-stack/server/auth/local/index.js",
+		"/home/jordon/code/mean-stack/app/account/profile/profile-controller.js",
+		"/home/jordon/code/mean-stack/app/admin/edit/edit.tpl.html",
+		"/home/jordon/code/mean-stack/app/admin/newUser/new-user.tpl.html",
+		"/home/jordon/code/mean-stack/app/admin/newUser/new-user-controller.js",
+		"/home/jordon/code/mean-stack/app/admin/admin-module.js",
+		"/home/jordon/code/mean-stack/app/components/user/password/password-change-directive.js",
+		"/home/jordon/code/mean-stack/app/components/validator/form-validator-class-directive.js",
+		"/home/jordon/code/mean-stack/app/app.less",
+		"/home/jordon/code/mean-stack/app/components/user/password/password-change-directive.tpl.html",
+		"/home/jordon/code/mean-stack/app/account/login/login.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/user/password/password-change-modal.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/user/form/user-form-directive.less",
+		"/home/jordon/code/mean-stack/app/account/login/login.less",
+		"/home/jordon/code/mean-stack/app/components/user/form/user-form-buttons-directive.js",
+		"/home/jordon/code/mean-stack/app/components/user/password/password-compare-directive.js",
+		"/home/jordon/code/mean-stack/app/components/user/password/password-change-directive.less",
+		"/home/jordon/code/mean-stack/app/components/validator/form-validator-directive.js",
+		"/home/jordon/code/mean-stack/app/components/validator/form-validator-directive.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/user/password/password-modal-directive.less",
+		"/home/jordon/code/mean-stack/app/components/json/json-service.js",
+		"/home/jordon/code/mean-stack/app/components/validator/validator.less",
+		"/home/jordon/code/mean-stack/app/components/user/form/user-form-edit-directive.js",
+		"/home/jordon/code/mean-stack/app/auth-interceptor.js",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-directive.js",
+		"/home/jordon/code/mean-stack/app/components/socket/io-factory.js",
+		"/home/jordon/code/mean-stack/app/account/login/login-controller.js",
+		"/home/jordon/code/mean-stack/app/components/auth/is-logged-in-directive.js",
+		"/home/jordon/code/mean-stack/server/auth/local/passport.js",
+		"/home/jordon/code/mean-stack/server/auth/index.js",
+		"/home/jordon/code/mean-stack/server/auth/auth.service.js",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-edit-directive.js",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-directive.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/underscore/underscore-module.js",
+		"/home/jordon/code/mean-stack/app/components/auth/auth-service.js",
+		"/home/jordon/code/mean-stack/app/components/components-module.js",
+		"/home/jordon/code/mean-stack/package.json",
+		"/home/jordon/code/mean-stack/.jscsrc",
+		"/home/jordon/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/jordon/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/home/jordon/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/jordon/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jordon/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jordon/.config/sublime-text-3/Packages/Terminal/Base File.sublime-settings",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-edit-directive.tpl.html",
+		"/home/jordon/code/mean-stack/server/config/environment/production.js",
+		"/home/jordon/code/mean-stack/server/config/express.js",
+		"/home/jordon/code/mean-stack/bower.json",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-directive.less",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-edit-email.tpl.html",
+		"/home/jordon/code/mean-stack/app/account/profile/profile.less",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-buttons-directive.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-edit-directive.less",
+		"/home/jordon/code/testapp/.yo-rc.json",
+		"/home/jordon/code/mean-stack/.yo-rc.json",
+		"/home/jordon/code/mean-stack/gulp-files/watch.js",
+		"/home/jordon/code/mean-stack/app/components/user/user-form-buttons-directive.js",
+		"/home/jordon/code/mean-stack/app/components/capitalize-filter.js",
+		"/home/jordon/code/mean-stack/server/api/user/index.js",
+		"/home/jordon/code/mean-stack/app/components/auth/auth.service.js",
+		"/home/jordon/code/mean-stack/server/config/seed.js",
+		"/home/jordon/code/mean-stack/app/dashboard/dashboard.tpl.html",
+		"/home/jordon/code/mean-stack/app/components/get-current-state.js",
+		"/home/jordon/code/mean-stack/app/account/settings/settings.tpl.html",
+		"/home/jordon/code/mean-stack/server/components/errors/index.js",
+		"/home/jordon/code/mean-stack/server/api/thing/thing.controller.js",
+		"/home/jordon/code/mean-stack/server/components/errors/error.controller.js",
+		"/home/jordon/code/mean-stack/server/routes.js",
+		"/home/jordon/code/mean-stack/app/account/account-routes.js",
+		"/home/jordon/code/mean-stack/app/auth-interceptor-factory.js",
+		"/home/jordon/code/mean-stack/client/components/auth/auth.service.js",
+		"/home/jordon/code/mean-stack/app/account/settings/settings.less",
+		"/home/jordon/code/mean-stack/app/account/login/login.json",
+		"/home/jordon/code/mean-stack/app/account/settings/settings-controller.js",
+		"/home/jordon/code/mean-stack/app/components/navbar/add-class-on-scroll-directive.js",
+		"/home/jordon/code/mean-stack/app/components/add-state-as-class-directive.js",
+		"/home/jordon/code/mean-stack/app/dashboard/dashboard.less",
+		"/home/jordon/code/mean-stack/app/account/login/logout-controller.js",
+		"/home/jordon/code/mean-stack/app/account/login/logout-directive.js",
+		"/home/jordon/code/mean-stack/node_modules/express-jwt/lib/errors/UnauthorizedError.js",
+		"/home/jordon/code/mean-stack/node_modules/express-jwt/lib/index.js"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/home/jordon/code/mean-stack/app",
+			"/home/jordon/code/mean-stack/",
+			"/home/jordon/code/mean-stack/server"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"UserData",
+			"users",
+			"JsonService",
+			"logger.log",
+			"thing",
+			"RenameMe",
+			"socket",
+			"RenameMe",
+			"UserData",
+			"NewUserCtrl",
+			"vm.",
+			"passwordChange",
+			"form",
+			"<div class=\"form-group\">",
+			"text",
+			"passwordChange",
+			"oldPassword",
+			"passwordModal",
+			"$cookieStore",
+			"this",
+			"scope",
+			"user",
+			"key",
+			"spaceafter",
+			"key",
+			"locked",
+			"toggled",
+			"div",
+			"span",
+			"updatedUser",
+			"User.get()",
+			"vm.user",
+			"6",
+			"getCurrentState",
+			"addStateAsClass",
+			"mean-stack",
+			"send",
+			"_password",
+			"SettingsCtrl",
+			"addClassOnScroll",
+			"console.log",
+			"$state",
+			"white",
+			"whitespace"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/jordon/code/resume-site/app/json/sections/projects.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1839,
+								1839
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/jordon/code/resume-site/app/underscore/underscore.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/jordon/code/resume-site/app/json/sections/skills.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/jordon/code/resume-site/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "resume-site.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"usersoc",
+				"app/components/user/user-socket-factory.js"
+			],
+			[
+				"usersock",
+				"app/components/user/user-socket-factory.js"
+			],
+			[
+				"logg",
+				"app/components/logger/logger-factory.js"
+			],
+			[
+				"user-d",
+				"app/components/user/user-data-service.js"
+			],
+			[
+				"auth",
+				"app/components/auth/auth-factory.js"
+			],
+			[
+				"token",
+				"app/components/auth/token-service.js"
+			],
+			[
+				"logger-f",
+				"app/components/logger/logger-factory.js"
+			],
+			[
+				"logger",
+				"node_modules/browser-sync/lib/logger.js"
+			],
+			[
+				"adminro",
+				"app/admin/admin-routes.js"
+			],
+			[
+				"adminc",
+				"app/admin/admin-controller.js"
+			],
+			[
+				"edit-us",
+				"app/admin/user/edit-user-controller.js"
+			],
+			[
+				"usercon",
+				"server/api/user/user.controller.js"
+			],
+			[
+				"usermo",
+				"server/api/user/user.model.js"
+			],
+			[
+				"user.con",
+				"server/api/user/user.controller.js"
+			],
+			[
+				"use.con",
+				"server/api/user/user.controller.js"
+			],
+			[
+				"usercont",
+				"server/api/user/user.controller.js"
+			],
+			[
+				"password-cha",
+				"app/components/user/password/password-change-directive.tpl.html"
+			],
+			[
+				"form-valid",
+				"app/components/validator/form-validator-class-directive.js"
+			],
+			[
+				"password",
+				"app/components/user/password/password-change-modal.tpl.html"
+			],
+			[
+				"user-form",
+				"app/components/user/form/user-form-directive.js"
+			],
+			[
+				"validator-",
+				"app/components/validator/form-validator-class-directive.js"
+			],
+			[
+				"prof",
+				"app/account/profile/profile-controller.js"
+			],
+			[
+				"profi",
+				"app/account/profile/profile.tpl.html"
+			],
+			[
+				"login.tp",
+				"app/account/login/login.tpl.html"
+			],
+			[
+				"json",
+				"app/components/json/json-service.js"
+			],
+			[
+				"profil",
+				"app/account/profile/profile-controller.js"
+			],
+			[
+				"auth-f",
+				"app/components/auth/auth-factory.js"
+			],
+			[
+				"dash",
+				"app/dashboard/dashboard-controller.js"
+			],
+			[
+				"auth-se",
+				"app/components/auth/auth-service.js"
+			],
+			[
+				"logintp",
+				"app/account/login/login.tpl.html"
+			],
+			[
+				"lo",
+				"app/account/login/login-controller.js"
+			],
+			[
+				"logint",
+				"app/account/login/login.tpl.html"
+			],
+			[
+				"app",
+				"app/app.less"
+			],
+			[
+				"loginl",
+				"app/account/login/login.less"
+			],
+			[
+				"app.j",
+				"app/app.json"
+			],
+			[
+				"navbarit",
+				"app/components/navbar/navbar-items-directive.tpl.html"
+			],
+			[
+				"navbaritem",
+				"app/components/navbar/navbar-items-directive.js"
+			],
+			[
+				"navbartpl",
+				"app/components/navbar/navbar-directive.tpl.html"
+			],
+			[
+				"loginle",
+				"app/account/login/login.less"
+			],
+			[
+				"appmod",
+				"app/app-module.js"
+			],
+			[
+				"navbardi",
+				"app/components/navbar/navbar-directive.js"
+			],
+			[
+				"inter",
+				"app/auth-interceptor-factory.js"
+			],
+			[
+				"auth-in",
+				"app/auth-interceptor-factory.js"
+			],
+			[
+				"loginco",
+				"app/account/login/login-controller.js"
+			],
+			[
+				"unauth",
+				"node_modules/express-jwt/lib/errors/UnauthorizedError.js"
+			],
+			[
+				"express-jwt",
+				"node_modules/express-jwt/lib/index.js"
+			],
+			[
+				"express-jwt/inde",
+				"node_modules/express-jwt/lib/index.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"server/rou",
+				"server/routes.js"
+			],
+			[
+				"dashboard",
+				"app/dashboard/dashboard-routes.js"
+			],
+			[
+				"app.js",
+				"client-old/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/code/sublime/mean-stack.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
