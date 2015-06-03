@@ -8,7 +8,7 @@ Installs Sublime Text 3, and copies over all my Sublime settings.
 1. When it pauses, open Sublime and install Package Control.
 1. Close Sublime Text
 1. Press any key and wait for script to symlink config files.
-1. Open Sublime Text and wait a little bit while it installs the packages.
+1. Open Sublime Text and wait a little bit while it installs the packages. NOTE hit okay for all warnings.
 1. Restart Sublime if necessary.
 
 ## Package Control
