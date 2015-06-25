@@ -4,4 +4,4 @@
 
 rm -r /opt/sublime_text
 rm /bin/subl
-rm $HOME/.config/sublime-text-3/Packages/User
+rm -r $HOME/.config/sublime-text-3/Packages/User
