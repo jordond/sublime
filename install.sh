@@ -23,6 +23,7 @@ function init {
   fi
 
   echo "Open sublime and install package control."
+  subl
   echo -n "Press 'c' to show the install command, or any key to continue... "
   read waitforme
   if [[ $waitforme == "c" ]]; then
