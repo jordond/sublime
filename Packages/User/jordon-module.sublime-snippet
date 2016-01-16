@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+(function () {
+  'use strict';
+
+  /* @ngdoc object
+   * @name ${1:app}
+   * @description
+   * ${2:module}
+   */
+  angular
+    .module('${1:app}', [
+    ]);
+}());
+]]></content>
+  <tabTrigger>module</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

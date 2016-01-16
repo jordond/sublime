@@ -2,7 +2,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
 	"drag_text": false,
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
@@ -11,7 +11,7 @@
 	[
 		"no_round"
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -28,5 +28,6 @@
 	"tab_size": 2,
 	"theme": "Asphalt.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"typescript_plugin_tsc_version": "1.7.3"
 }
